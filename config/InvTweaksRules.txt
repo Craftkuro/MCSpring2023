@@ -5,6 +5,7 @@
 
 ====== [ SETTINGS ] ======
 
+A LOCKED
 D LOCKED
 
 ======== [ GETTING STARTED ] ========
