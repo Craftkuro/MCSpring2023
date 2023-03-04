@@ -16,8 +16,8 @@ fancyGraphics:true
 ao:2
 renderClouds:false
 resourcePacks:[]
-incompatibleResourcePacks:[]
-lastServer:
+incompatibleResourcePacks:["Minecraft-Mod-Language-Package-1.12.2.zip"]
+lastServer:mcserver2.lan:25566
 lang:zh_cn
 chatVisibility:0
 chatColors:true
@@ -34,7 +34,7 @@ pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
 overrideHeight:0
-heldItemTooltips:true
+heldItemTooltips:false
 chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
@@ -88,6 +88,8 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
+key_oreexcavation.key.excavate:41
+key_oreexcavation.key.shape:47
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
 key_key.toggleTimeOfDayOverlay:0
@@ -96,6 +98,20 @@ key_key.toastcontrol.clear:36
 key_keybind.baublesinventory:48
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
+key_key.multihotbar.scrollModifier:56
+key_key.multihotbar.showDefaultHotbar:41
+key_key.multihotbar.nextHotbar:45
+key_key.multihotbar.previousHotbar:0
+key_key.multihotbar.scrollIgnore:0
+key_key.multihotbar.hotbarkey.10:0
+key_key.multihotbar.hotbarkey.11:0
+key_key.multihotbar.hotbarkey.12:0
+key_key.multihotbar.hotbarkey.13:0
+key_key.multihotbar.hotbarkey.14:0
+key_key.multihotbar.hotbarkey.15:0
+key_key.multihotbar.hotbarkey.16:0
+key_key.multihotbar.hotbarkey.17:0
+key_key.multihotbar.hotbarkey.18:0
 key_enderutilities.key.activate_unselected:34
 key_enderutilities.key.togglemode:34
 key_key.exchangers.open_gui:51
@@ -118,6 +134,8 @@ key_keys.quantumstorage.openbag:79
 key_key.toggle_shaders:0
 key_key.open_wct.desc:0
 key_key.cycle_magnet_mode.desc:0
+key_key.open_wit.desc:0
+key_key.open_wpt.desc:0
 key_key.xu2.searchforitems:20
 key_key.dismount:42
 key_key.narrator:48:CONTROL
@@ -154,9 +172,6 @@ key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_invtweaks.key.sort:19
 key_WorldEdit Reference:38
-key_key.keyExtraInvo:45
-key_key.keyWheel:19
-key_key.keyExtraCraftin:0
 key_key.cofh.multimode:47
 key_key.draconicevolution.placeItem:25
 key_key.draconicevolution.toolConfig:0
@@ -170,6 +185,7 @@ key_key.draconicevolution.toggleShields:0
 key_key.toggle_focus.desc:15
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33
+key_nei.options.keys.gui.botania_corporea_request:0
 key_key.settings_menu:34
 key_key.range:19
 key_key.undo:22
@@ -191,7 +207,6 @@ key_jecalculation.key.gui_math:0
 key_key.simplybackpacks.backpackpickup.desc:0
 key_key.simplybackpacks.backpackopen.desc:0
 key_keybind.fovfixtoggle:0
-key_nei.options.keys.gui.botania_corporea_request:0
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
 key_key.integrateddynamics.logic_programmer_open_rename:19:ALT
 key_key.integratedterminals.terminal.tab.next:15
